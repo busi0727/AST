@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+
+.navbar{
+    background-color:rgb(36, 36, 36) !important;
+   }
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: rgb(15, 15, 15);
+}
+
+.coming-soon-img{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.coming-soon{
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    text-align: center;
+    height: 150px;
+    opacity: 0.3;
+}
